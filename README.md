@@ -1,4 +1,4 @@
-# The-Lotto-Game
+# Python-Projects
 # Repo for a lotto game i created in python
 
 Run the shell file or the following commands to install the required modules -
